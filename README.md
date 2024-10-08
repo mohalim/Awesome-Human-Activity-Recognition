@@ -92,6 +92,8 @@ Please feel free to contribute this list.
 - <a name="Overview"></a> Deep Learning for Sensor-based Human Activity Recognition: Overview, Challenges, and Opportunities (**ACM Computing Surveys (CSUR)**) [[paper](https://dl.acm.org/doi/abs/10.1145/3447744)]
 
 - <a name="Md"></a> Human Action Recognition from Various Data Modalities: A Review (**IEEE TPAMI 2022**) [[paper](https://arxiv.org/pdf/2012.11866.pdf)] top AI Journal
+  
+- <a name="UnsupervisedHAR"></a> A survey on unsupervised learning for wearable sensor-based activity recognition (**Applied Soft Computing**) [[paper](https://doi.org/10.1016/j.asoc.2022.109363)]
 
 ### 2024
 
@@ -121,7 +123,8 @@ Please feel free to contribute this list.
 
 ### 2023
 
-- Integrating Gaze and Mouse Via Joint Cross-Attention Fusion Net for Students' Activity Recognition in E-learning
+- Similarity Segmentation Approach for Sensor-Based Activity Recognition [[link](https://doi.org/10.1109/JSEN.2023.3295778)]
+- A deep local-temporal architecture with attention for lightweight human activity recognition [[link](https://doi.org/10.1016/j.asoc.2023.110954)]
 - Integrating Gaze and Mouse Via Joint Cross-Attention Fusion Net for Students' Activity Recognition in E-learning
 - VAX: Using Existing Video and Audio-based Activity Recognition Models to Bootstrap Privacy-Sensitive Sensors
 - LAUREATE: A Dataset for Supporting Research in Affective Computing and Human Memory Augmentation
@@ -151,6 +154,7 @@ Please feel free to contribute this list.
 
 ### 2022
 
+- Deep Temporal Conv-LSTM for Activity Recognition [[link](https://doi.org/10.1007/s11063-022-10799-5)]
 - Self-Supervised Contrastive Pre-Training for Time Series via Time-Frequency Consistency
 - MaeFE: Masked Autoencoders Family of Electrocardiogram for Self-supervised Pre-training and Transfer Learning
 - A Simple Self-Supervised IMU Denoising Method For Inertial Aided Navigation
@@ -256,6 +260,7 @@ Please feel free to contribute this list.
 
 
 ### 2021
+- Feature learning using convolutional denoising autoencoder for activity recognition [[link](https://doi.org/10.1007/s00521-020-05638-4)]
 - <a name="POSE"></a> Approaching the Real-World: Supporting Activity Recognition Training with Virtual IMU Data [[paper](https://dl.acm.org/doi/abs/10.1145/3478096)]
 
 - <a name="CANYOU"></a> Can You See It? Good, So We Can Sense It! [[paper](https://dl.acm.org/doi/abs/10.1145/3486880.3486891)]
